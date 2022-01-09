@@ -1,7 +1,17 @@
 # Api - 01
 Api construida para a atividade do encontro remoto 1.
-![Get-ER01](https://user-images.githubusercontent.com/88802868/148706246-a6a7ef06-8f56-4fb6-87ac-1a4b67ace3f0.png)
-![GetEspecifico-ER01](https://user-images.githubusercontent.com/88802868/148706254-1b3ab84d-26ad-40c6-9041-1aeec7616d6f.png)
-![Post-ER01](https://user-images.githubusercontent.com/88802868/148706261-71ee62b1-df29-4392-ae9a-b3d466c26149.png)
-![Put-ER01](https://user-images.githubusercontent.com/88802868/148706263-b12310ed-1013-4376-a749-f4533de7dc22.png)
-![Delete-ER01](https://user-images.githubusercontent.com/88802868/148706267-ac966d4d-1bbe-4e53-8c91-ef587eb4471b.png)
+
+Get
+![Get-ER01](https://user-images.githubusercontent.com/88802868/148706384-38d6f7bc-90ad-4610-b4c7-abbbd71efaab.png)
+
+Get Livro Específico
+![GetEspecifico-ER01](https://user-images.githubusercontent.com/88802868/148706396-5f0bc976-c6b3-440e-80e3-131ceb0e77c6.png)
+
+Post
+![Post-ER01](https://user-images.githubusercontent.com/88802868/148706404-2dd9c0fe-4826-4eb8-af9f-113f3a7fc46a.png)
+
+Put
+![Put-ER01](https://user-images.githubusercontent.com/88802868/148706410-4b903a75-ef9b-408f-a388-fe74fd7e9328.png)
+
+Delete
+![Delete-ER01](https://user-images.githubusercontent.com/88802868/148706413-a3b7ac5e-ef5f-4eb8-b0b2-8aefa9cfffb4.png)
